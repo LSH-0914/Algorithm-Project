@@ -15,7 +15,10 @@ By using our program, people can know how much the protein should they consume a
 This is especially important for women, who are at high risk of osteoporosis after menopause. Eating plenty of protein and staying active is a good way to help prevent that from happening. It can also boost metabolism, increases fat burning and lower our blood pressure.
 
 ## Suitability of Sorting, DAC, DP, Greedy and Graph algorithms as a solution paradigm
-![image](https://user-images.githubusercontent.com/96568739/211486399-a2d56e97-211c-4ce4-9952-60b9b5a9f2bc.png)
+![image](https://user-images.githubusercontent.com/96568739/211486399-a2d56e97-211c-4ce4-9952-60b9b5a9f2bc.png)  
+
+##  Data Description  
+![image](https://user-images.githubusercontent.com/96568739/213108380-a68aa4ba-1afd-47c6-8e28-a72811e6c95f.png)  
 
 ## Algorithm Specification
 ### Unbound 0-1 Knapsack Problem
@@ -110,6 +113,7 @@ Last but not least, we run through a for loop starting from the first index of t
 ![image](https://user-images.githubusercontent.com/96568739/211812180-d4aff262-bc81-455f-aead-d1fcdfb89388.png)  
 **Figure 9: Output Unbound Fractional Knapsack Problem**  
 
+### Result  
 As we can observe in the result illustrated from Figure 9, with the same amount of input in the Unbound 0-1 Knapsack problem, we get a higher profit constituted which is a total optimum protein of (188.2g) compared to what we have in Unbound 0-1 Knapsack (187g). With that, we conclude that this algorithm will give us more optimization in getting the maximum profit with the minimum amount of weight.  
 
 ## Algorithm's Correctness  
